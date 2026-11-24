@@ -23,4 +23,4 @@ Full-stack developer experienced in building web applications with React, Next.j
 
 **Links**
 
-[LinkedIn](https://www.linkedin.com/in/sai-ramana-ladi-a68131317/) · [Email](mailto:24bq1a05p6@vvit.net) · [Discord](https://discord.com/users/837260533355053076)
+[LinkedIn](https://www.linkedin.com/in/sai-ramana-ladi-a68131317/) · [Email](mailto:sairamanladi2007@gmail.com) · [Discord](https://discord.com/users/837260533355053076)
